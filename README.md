@@ -5,6 +5,15 @@
 </p>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:38bdf8&height=140&section=header&text=&fontSize=0" />
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/nisarga-vishwamanjuswamy">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:nisargavgowda15@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
+
 👋 Hi, I’m Nisarga Vishwamanjuswamy
 
 Infrastructure-Focused Cloud & Software Engineer
