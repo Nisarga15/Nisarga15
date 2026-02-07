@@ -1,3 +1,10 @@
+<p align="center">
+  <a href="https://github.com/Nisarga15">
+    <img src="https://readme-typing-svg.herokuapp.com?size=26&center=true&vCenter=true&width=850&lines=Hi%2C+I%27m+Nisarga+Vishwamanjuswamy+%F0%9F%91%8B;Cloud+%26+Infrastructure+Engineer;Backend+%7C+DevOps+%7C+Automation;Building+LLM+Platforms+%26+Reliable+Systems" />
+  </a>
+</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:38bdf8&height=140&section=header&text=&fontSize=0" />
+
 👋 Hi, I’m Nisarga Vishwamanjuswamy
 
 Infrastructure-Focused Cloud & Software Engineer
