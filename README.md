@@ -74,8 +74,6 @@ Agile / Scrum • Jira • operational risk monitoring
 
 ## 🚀 Featured Projects (What I Actually Built)
 
----
-
 ### 🤖 LLM API Gateway — *Making LLMs production-safe*
 
 > “What happens when models fail, cost spikes, or traffic surges?”
