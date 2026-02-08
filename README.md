@@ -43,17 +43,23 @@ I specialize in:
 <hr/>
 
 <!-- ===================== STATUS ===================== -->
-## 🧠 Current Focus
+## 🧠 Current Role
 
-role: Data Analyst Intern (Systems & Backend Focus)
-org: Metropolitan Transportation Authority (MTA)
-focus:
-  - Cloud Infrastructure & DevOps
-  - Backend APIs & Automation
-  - Reliability & Operational Readiness
-  - LLM Platforms & AI Systems
-tech: AWS | Azure | Linux | Python | CI/CD
-availability: Full-Time (May 2026)
+**Data Analyst Intern (Systems & Backend Engineering Focus)**  
+**Metropolitan Transportation Authority (MTA), New York**
+
+I work close to production systems where data, backend services, and operations meet.
+
+My work focuses on:
+- Designing and maintaining **Python-based backend ingestion & processing workflows**
+- Integrating enterprise data sources (Oracle, SharePoint, Excel) for **near real-time reporting**
+- Automating **compliance tracking, due-date logic, and risk flagging**
+- Debugging **data consistency, performance, and system integration issues**
+- Improving **operational readiness** for downstream analytics and reporting teams
+
+**Environment:** AWS • Azure • Linux • Python • SQL • CI/CD  
+**Availability:** Open to Full-Time Roles (May 2026)
+
 
 <hr/> <!-- ===================== CONNECT ===================== -->
 🌐 Connect With Me
