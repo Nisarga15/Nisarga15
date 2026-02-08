@@ -54,3 +54,55 @@ focus:
   - LLM Platforms & AI Systems
 tech: AWS | Azure | Linux | Python | CI/CD
 availability: Full-Time (May 2026)
+
+<hr/> <!-- ===================== CONNECT ===================== -->
+🌐 Connect With Me
+<p align="center"> <a href="https://www.linkedin.com/in/nisarga-vishwamanjuswamy"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/> </a> <a href="mailto:nisargavgowda15@gmail.com"> <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail"/> </a> </p> <hr/> <!-- ===================== TECH STACK ===================== -->
+🧰 Languages • Tools • Platforms
+<p align="center"> <img src="https://skillicons.dev/icons?i=python,java,js,nodejs,sql,linux,bash,aws,azure,docker,kubernetes,terraform,jenkins,git,github,postgres,mysql&perline=8" /> </p> <details> <summary><b>📌 Systems Knowledge</b></summary>
+
+REST APIs • HTTP/JSON • Distributed systems fundamentals
+
+CI/CD pipelines • secure configuration • production support
+
+Logging • monitoring • performance debugging
+
+Agile / Scrum • Jira • operational risk monitoring
+
+</details> <hr/> <!-- ===================== PROJECTS ===================== -->
+🚀 Featured Projects
+🤖 LLM API Gateway — Cloud Infrastructure Platform
+
+Python • REST • CI/CD • Cloud-ready design
+
+Unified gateway for model routing, retries, validation, and responses
+
+Designed for fault tolerance, observability, and operational readiness
+
+Automation-first deployment with CI/CD integration
+
+🧬 Immunization Reimagined — Intelligent Digital Ecosystem
+
+Systems Architecture • AI/ML • Governance
+
+Large-scale review (2000–2025) of digital immunization platforms
+
+Designed architectures using predictive analytics & explainable AI
+
+Evaluated scalability, auditability, and ethics-by-design
+
+🎓 InternPath AI — Internship Application Copilot
+
+AI Agents • IBM Watsonx • Automation
+
+ATS-optimized resume & cover letter generation
+
+STAR-based bullet rewriting and skill matching
+
+Reduced manual application effort significantly
+
+<hr/> <!-- ===================== CONTRIBUTION SNAKE ===================== -->
+🐍 Contribution Activity
+<img src="https://raw.githubusercontent.com/Nisarga15/Nisarga15/output/github-contribution-grid-snake-dark.svg" width="100%" /> <hr/> <!-- ===================== STATS ===================== -->
+📊 GitHub Analytics
+<p align="center"> <img height="180" src="https://github-readme-stats.vercel.app/api?username=Nisarga15&show_icons=true&theme=tokyonight&hide_border=true" /> <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nisarga15&layout=compact&theme=tokyonight&hide_border=true" /> </p> <p align="center"> <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Nisarga15&theme=tokyonight&hide_border=true" /> </p> <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Nisarga15&theme=algolia&no-frame=true&row=1&column=7" /> </p> <hr/> <!-- ===================== FOOTER ===================== --> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=120&section=footer" /> <p align="center"> <b>Building reliable systems that don’t wake people up at 3AM 🚀</b> </p> ```
