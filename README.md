@@ -57,7 +57,7 @@ My work focuses on:
 - Debugging **data consistency, performance, and system integration issues**
 - Improving **operational readiness** for downstream analytics and reporting teams
 
-**Environment:** AWS • Azure • Linux • Python • SQL • CI/CD  
+**Environment:** Azure • Linux • Python • SQL • CI/CD  
 **Availability:** Open to Full-Time Roles (May 2026)
 
 
