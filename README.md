@@ -71,36 +71,43 @@ Logging • monitoring • performance debugging
 Agile / Scrum • Jira • operational risk monitoring
 
 </details> <hr/> <!-- ===================== PROJECTS ===================== -->
-🚀 Featured Projects
-🤖 LLM API Gateway — Cloud Infrastructure Platform
+## 🚀 Featured Projects (What I Actually Built)
 
-Python • REST • CI/CD • Cloud-ready design
+### 🤖 LLM API Gateway — *Making LLMs production-safe*
 
-Unified gateway for model routing, retries, validation, and responses
+> “What happens when models fail, cost spikes, or traffic surges?”
 
-Designed for fault tolerance, observability, and operational readiness
+I built a **cloud-ready LLM gateway** that:
+- Routes requests across models intelligently  
+- Retries safely with validation and structured responses  
+- Emits logs and metrics for **observability & ops readiness**  
+- Deploys **automation-first** via CI/CD  
 
-Automation-first deployment with CI/CD integration
+**Stack:** Python • REST • CI/CD • Cloud-native design
 
-🧬 Immunization Reimagined — Intelligent Digital Ecosystem
+---
 
-Systems Architecture • AI/ML • Governance
+### 🧬 Immunization Reimagined — *From data silos to intelligent systems*
 
-Large-scale review (2000–2025) of digital immunization platforms
+This research project explores how immunization platforms evolve into
+**intelligent digital ecosystems**.
 
-Designed architectures using predictive analytics & explainable AI
+I:
+- Reviewed global platforms **(2000–2025)**  
+- Designed architectures using **predictive analytics & explainable AI**  
+- Evaluated **governance, auditability, and ethics-by-design**
 
-Evaluated scalability, auditability, and ethics-by-design
+---
 
-🎓 InternPath AI — Internship Application Copilot
+### 🎓 InternPath AI — *Removing friction from job applications*
 
-AI Agents • IBM Watsonx • Automation
+An AI copilot that:
+- Analyzes job descriptions  
+- Generates **ATS-optimized resumes & cover letters**  
+- Rewrites bullets using the **STAR framework**  
 
-ATS-optimized resume & cover letter generation
+Result → **dramatically reduced manual application effort**
 
-STAR-based bullet rewriting and skill matching
-
-Reduced manual application effort significantly
 
 <hr/> <!-- ===================== CONTRIBUTION SNAKE ===================== -->
 🐍 Contribution Activity
