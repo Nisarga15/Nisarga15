@@ -45,7 +45,7 @@ I specialize in:
 <!-- ===================== STATUS ===================== -->
 ## 🧠 Current Focus
 
-yaml
+'''yaml
 role: Data Analyst Intern (Systems & Backend Focus)
 org: Metropolitan Transportation Authority (MTA)
 focus:
