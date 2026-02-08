@@ -71,17 +71,23 @@ Logging • monitoring • performance debugging
 Agile / Scrum • Jira • operational risk monitoring
 
 </details> <hr/> <!-- ===================== PROJECTS ===================== -->
+<hr/>
+
 ## 🚀 Featured Projects (What I Actually Built)
+
+---
 
 ### 🤖 LLM API Gateway — *Making LLMs production-safe*
 
 > “What happens when models fail, cost spikes, or traffic surges?”
 
-I built a **cloud-ready LLM gateway** that:
+I built a **cloud-ready LLM gateway** that treats reliability as a first-class concern.
+
+I designed a system that:
 - Routes requests across models intelligently  
-- Retries safely with validation and structured responses  
-- Emits logs and metrics for **observability & ops readiness**  
-- Deploys **automation-first** via CI/CD  
+- Retries safely with validation and **structured responses**  
+- Emits logs and metrics for **observability & operational readiness**  
+- Deploys **automation-first** via CI/CD pipelines  
 
 **Stack:** Python • REST • CI/CD • Cloud-native design
 
@@ -89,24 +95,99 @@ I built a **cloud-ready LLM gateway** that:
 
 ### 🧬 Immunization Reimagined — *From data silos to intelligent systems*
 
-This research project explores how immunization platforms evolve into
-**intelligent digital ecosystems**.
+This research project explores how traditional immunization platforms evolve into
+**adaptive, intelligent digital ecosystems**.
 
 I:
-- Reviewed global platforms **(2000–2025)**  
-- Designed architectures using **predictive analytics & explainable AI**  
-- Evaluated **governance, auditability, and ethics-by-design**
+- Conducted a large-scale review of global platforms **(2000–2025)**  
+- Designed system architectures using **predictive analytics & explainable AI**  
+- Evaluated **scalability, auditability, data integrity, and ethics-by-design**  
+- Focused on governance, trust, and long-term system sustainability  
+
+**Focus:** Systems Architecture • AI/ML • Digital Governance
 
 ---
 
 ### 🎓 InternPath AI — *Removing friction from job applications*
 
-An AI copilot that:
-- Analyzes job descriptions  
+> “What if applying for internships didn’t feel like a full-time job?”
+
+I built an **AI-powered internship application copilot** that automates the most
+time-consuming parts of the process.
+
+The system:
+- Analyzes job descriptions and skill requirements  
 - Generates **ATS-optimized resumes & cover letters**  
 - Rewrites bullets using the **STAR framework**  
+- Matches skills to roles using AI agents  
 
 Result → **dramatically reduced manual application effort**
+
+**Stack:** AI Agents • IBM Watsonx • Automation
+
+---
+
+### 🧠 Detection of Alzheimer’s Disease — *ML for early diagnosis*
+
+This project applies machine learning to improve **early-stage Alzheimer’s detection**
+using MRI data.
+
+I:
+- Built Python-based ML pipelines for **data preprocessing and feature extraction**  
+- Trained and evaluated classification models across disease stages  
+- Improved **detection precision and reliability** through iterative tuning  
+- Contributed to a **peer-reviewed research publication**  
+
+**Stack:** Python • Machine Learning • Medical Imaging
+
+---
+
+### 📦 Stock Verification Management System — *Accuracy at scale*
+
+> “Inventory systems fail quietly — until they don’t.”
+
+I designed backend workflows for a **real-time stock verification system** focused on
+data correctness and consistency.
+
+The system:
+- Collected and processed inventory data in near real time  
+- Used **SQL-based validation logic** to maintain accuracy  
+- Improved tracking and reporting efficiency  
+- Reduced discrepancies caused by manual data handling  
+
+**Stack:** MySQL • SQL • Backend Data Processing
+
+---
+
+### 🌐 Inventory Management & BI Dashboard — *From raw data to decisions*
+
+This project combined **web development and business intelligence** to improve
+operational visibility.
+
+I:
+- Built an inventory management web application using **JavaScript, SQL, and APIs**  
+- Designed **Power BI dashboards** for reporting and insights  
+- Improved data accuracy and reporting workflows  
+- Enabled faster, data-driven decision-making  
+
+**Stack:** JavaScript • SQL • APIs • Power BI
+
+---
+
+### 🚗 Distributed Automotive Systems — *Engineering under latency pressure*
+
+At ChipSync Technologies, I worked on **high-performance distributed systems** for
+automotive clients.
+
+I:
+- Developed backend and system-level features for **distributed applications**  
+- Optimized **real-time audio/video streaming pipelines**  
+- Debugged production issues under strict latency and performance constraints  
+- Collaborated cross-functionally to deliver scalable solutions  
+
+**Focus:** Distributed Systems • Performance Engineering • Production Debugging
+
+
 
 
 <hr/> <!-- ===================== CONTRIBUTION SNAKE ===================== -->
