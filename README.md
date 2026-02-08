@@ -71,7 +71,6 @@ Logging • monitoring • performance debugging
 Agile / Scrum • Jira • operational risk monitoring
 
 </details> <hr/> <!-- ===================== PROJECTS ===================== -->
-<hr/>
 
 ## 🚀 Featured Projects (What I Actually Built)
 
