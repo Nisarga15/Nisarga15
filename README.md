@@ -1,49 +1,56 @@
-<!-- ===================== HERO ===================== -->
-<h1 align="center">Hi 👋, I'm <span style="color:#3b82f6;">Nisarga</span>!</h1>
-<h3 align="center">Cloud & Infrastructure Engineer • Backend • DevOps • Automation</h3>
+<!-- ===================== HEADER ===================== -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=180&section=header&fontColor=ffffff&fontSize=42&animation=fadeIn&fontAlignY=35&text=Nisarga%20Vishwamanjuswamy" />
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Nisarga15&label=Profile%20views&color=0ea5e9&style=for-the-badge" alt="profile views" />
-  <a href="mailto:nisargavgowda15@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-f43f5e?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/nisarga-vishwamanjuswamy">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-2563eb?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=1000&lines=Cloud+%26+Infrastructure+Engineer;Backend+%7C+DevOps+%7C+Automation;AWS+%7C+Azure+%7C+Linux+%7C+CI%2FCD;Building+LLM+Platforms+and+Production-Ready+Systems" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&center=true&vCenter=true&width=900&lines=Infrastructure-focused+Cloud+%26+Software+Engineer;AWS+%7C+Azure+%7C+Linux%2FUNIX+%7C+CI%2FCD;API-first+backend+systems+%7C+automation+%7C+reliability;Building+LLM+platforms+and+cloud-ready+services" />
+  <img src="https://komarev.com/ghpvc/?username=Nisarga15&label=Profile%20Views&color=2563eb&style=flat-square" />
+  <img src="https://img.shields.io/github/followers/Nisarga15?label=Followers&style=flat-square&color=0ea5e9" />
 </p>
 
 <hr/>
 
-<img align="right" alt="Coding" width="330" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<!-- ===================== HERO GRID ===================== -->
+<table>
+<tr>
+<td width="60%">
 
-## 🚀 About Me
+## 👋 Hi, I’m Nisarga
 
-I’m **Nisarga Vishwamanjuswamy**, an **infrastructure-focused cloud & software engineer** with **3+ years of experience** supporting **cloud platforms, DevOps pipelines, and backend systems** in enterprise environments.
+I’m an **infrastructure-focused Cloud & Software Engineer** with **3+ years of experience** building and supporting **backend systems, cloud platforms, and DevOps pipelines** in enterprise environments.
 
-I enjoy building systems that are **fault-tolerant, observable, and automation-friendly** — and I’m currently expanding into **LLM platforms and API-first cloud infrastructure**.
+I specialize in:
+- Designing **API-first, production-ready systems**
+- Building **automation-heavy cloud infrastructure**
+- Making systems **observable, fault-tolerant, and boring in production**
 
-- 🎓 MS in Computer Science @ **Pace University** (May 2026)  
-- 📍 **New York, NY**  
-- 📫 **nisargavgowda15@gmail.com**  
-- ✅ Open to **Full-Time Opportunities (May 2026)**
+🎓 **MS Computer Science @ Pace University** (May 2026)  
+📍 **New York, NY**  
+💼 **Open to Full-Time Roles (May 2026)**  
 
----
+</td>
+<td width="40%" align="center">
 
-## 💼 Current Status
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="260"/>
+
+</td>
+</tr>
+</table>
+
+<hr/>
+
+<!-- ===================== STATUS ===================== -->
+## 🧠 Current Focus
 
 ```yaml
-role: "Data Analyst Intern (Systems & Backend Focus)"
-organization: "Metropolitan Transportation Authority (MTA)"
-location: "New York, NY, USA"
-education: "MS Computer Science @ Pace University (May 2026)"
-experience: "3+ years (Cloud, Backend, Infrastructure)"
+role: Data Analyst Intern (Systems & Backend Focus)
+org: Metropolitan Transportation Authority (MTA)
 focus:
   - Cloud Infrastructure & DevOps
-  - Backend Services & APIs
-  - Automation & Reliability
+  - Backend APIs & Automation
+  - Reliability & Operational Readiness
   - LLM Platforms & AI Systems
-availability: "Open to Full-Time Roles (May 2026)"
+tech: AWS | Azure | Linux | Python | CI/CD
+availability: Full-Time (May 2026)
