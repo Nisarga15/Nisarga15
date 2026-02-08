@@ -1,9 +1,10 @@
 <!-- ===================== HEADER ===================== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=180&section=header&fontColor=ffffff&fontSize=42&animation=fadeIn&fontAlignY=35&text=Nisarga%20Vishwamanjuswamy" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=180&section=header&animation=fadeIn&fontColor=ffffff&fontSize=44&fontAlignY=35&text=Nisarga%20Vishwamanjuswamy" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=1000&lines=Cloud+%26+Infrastructure+Engineer;Backend+%7C+DevOps+%7C+Automation;AWS+%7C+Azure+%7C+Linux+%7C+CI%2FCD;Building+LLM+Platforms+and+Production-Ready+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2800&pause=700&color=38BDF8&center=true&vCenter=true&width=1000&lines=Cloud+%26+Infrastructure+Engineer;Backend+%7C+DevOps+%7C+Automation;AWS+%7C+Azure+%7C+Linux+%7C+CI%2FCD;Building+Production-Ready+LLM+Platforms" />
 </p>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Nisarga15&label=Profile%20Views&color=2563eb&style=flat-square" />
