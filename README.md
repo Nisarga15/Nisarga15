@@ -190,3 +190,10 @@ I:
 **Focus:** Distributed Systems • Performance Engineering • Production Debugging
 
 
+
+
+<hr/> <!-- ===================== CONTRIBUTION SNAKE ===================== -->
+🐍 Contribution Activity
+<img src="https://raw.githubusercontent.com/Nisarga15/Nisarga15/output/github-contribution-grid-snake-dark.svg" width="100%" /> <hr/> <!-- ===================== STATS ===================== -->
+📊 GitHub Analytics
+<p align="center"> <img height="180" src="https://github-readme-stats.vercel.app/api?username=Nisarga15&show_icons=true&theme=tokyonight&hide_border=true" /> <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nisarga15&layout=compact&theme=tokyonight&hide_border=true" /> </p> <p align="center"> <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Nisarga15&theme=tokyonight&hide_border=true" /> </p> <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Nisarga15&theme=algolia&no-frame=true&row=1&column=7" /> </p> <hr/> <!-- ===================== FOOTER ===================== --> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=120&section=footer" /> <p align="center"> <b>Building reliable systems that don’t wake people up at 3AM 🚀</b> </p>
